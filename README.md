@@ -1,2 +1,5 @@
 # ArisePoseDriver
-Arise Pose Driver is a Maya utility designed for artists and riggers working with Arise-based character rigs.
+Download:
+- Gumroad: https://996298055622.gumroad.com/l/ArisePoseDriver
+- GitHub Release: [release link]
+
