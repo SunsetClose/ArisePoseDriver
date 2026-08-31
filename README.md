@@ -34,5 +34,3 @@ This tool is provided for free for artists who need a faster way to build correc
 Created by Adieumadam.
 Download:
 - Gumroad: https://996298055622.gumroad.com/l/ArisePoseDriver
-- GitHub Release: [release link]
-
