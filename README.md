@@ -27,7 +27,7 @@ This script is intended to speed up the corrective shape setup process for Arise
 ## Download
 
 - Gumroad: https://996298055622.gumroad.com/l/ArisePoseDriver
-- GitHub: Download `ArisePoseDriver.py` from this repository
+- GitHub Release: https://github.com/SunsetClose/ArisePoseDriver/releases/tag/v2.0.0
 
 ---
 
