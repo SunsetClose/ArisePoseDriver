@@ -2,6 +2,8 @@
 
 **Arise Pose Driver** is a free Maya Python utility designed for artists and riggers working with Arise-based character rigs.
 
+![Arise Pose Driver UI](images/pic_01.png)
+
 It helps create and update pose-reader driven corrective shape setups for arms, legs, fingers, and neck areas. The tool provides a clean Qt interface, Arise naming presets, left/right mirror support, BlendShape target creation, target transfer tools, and quick UpdatePose workflows for adjusting corrective shapes after posing FK controls.
 
 This script is intended to speed up the corrective shape setup process for Arise rigs, especially when building drive-ball / pose-reader based deformation fixes.
